@@ -1,0 +1,4 @@
+[Icon Theme]
+Name=Fior Icons
+Comment=macOS X inspired icon theme
+Inherits=breeze,gnome,hicolor
